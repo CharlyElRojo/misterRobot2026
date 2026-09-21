@@ -1,0 +1,17 @@
+commit efedaa6b848e6d09cd7f3c60bf51a52196dd9874
+Author: Charly Red <carlos.arroyo@bue.edu.ar>
+Date:   Mon Sep 21 19:06:44 2026 -0300
+
+    cambiamos un p
+
+commit 207f842d65e6a7290d33089e06162e9b606695db
+Author: Charly Red <carlos.arroyo@bue.edu.ar>
+Date:   Mon Sep 21 19:03:24 2026 -0300
+
+    Cambié el home por Principal
+
+commit 1d719feb823948a7c592746fb87ba9ce5d88f2e1
+Author: Charly Red <carlos.arroyo@bue.edu.ar>
+Date:   Mon Sep 21 18:53:23 2026 -0300
+
+    Estamos subiendo los archivos base dle proyecto
